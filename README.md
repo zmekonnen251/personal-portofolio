@@ -1,6 +1,6 @@
 # Personal Portofolio
 
-> It is a project that I made for the Microverse entrance. The project is a simple survey form. I and my partner used Html and CSS to build the project.
+> It is a project that I made for the Microverse entrance. The project is a simple portfolio site. I and my partner used Html and CSS to build the project.
 
 ## Built With
 
