@@ -30,9 +30,6 @@ https://github.com/zmekonnen251/survey-form.git
 - GitHub: [@Christianib003](https://github.com/Christianib003)
 - LinkedIn: [@Christian Iradukunda Byiringiro](https://www.linkedin.com/in/christian-iradukunda-byiringiro-657598226)
 
-## Live Demo
-
-[live Demo](https://zmekonnen251.github.io/survey-form/)
 
 ## 🤝 Contributing
 
